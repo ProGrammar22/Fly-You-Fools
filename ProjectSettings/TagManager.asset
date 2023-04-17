@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Environment
+  - Coins
+  - Trap
+  - Upgrade2
+  - Upgrade1
+  - Zombie
+  - Flash
+  - Expanding Trap
+  - Shield
+  - BGM
+  - Boost BGM
+  - Boost Activate
+  - Undefined
+  - Button Sound
+  - Coin Collect
+  - Coins Upgrade Activate
+  - Explosion Sound
+  - Game Start Sound
+  - Gun Sound
+  - Jetpack Sound
+  - Shield Upgrade Activate
+  - Start Menu BGM
+  - Waveform Sound
+  - Zombie Death Sound
+  - Fast Footsteps Sound
+  - Slow Footsteps Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Upgrade
+  - Water
+  - UI
+  - Player
+  - Waveform
+  - Skywall
+  - Coins
+  - Ground
+  - Trap
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3901478581
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1170490069
+    locked: 0
