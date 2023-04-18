@@ -4,9 +4,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private float flySpeed;
-    private float normalFlySpeed = 30;
+    private float normalFlySpeed = 80;
     private float normalMass = 1;
-    private float normalGravityScale = 1;
+    private float normalGravityScale = 2;
     private float upgradeFlySpeed = 2000;
     private float upgradeMass = 20;
     private float upgradeGravityScale = 4;
