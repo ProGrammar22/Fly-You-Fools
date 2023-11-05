@@ -82,7 +82,7 @@ public class StartMenuUIHandler : MonoBehaviour
         startMenu.SetActive(false);
     }
 
-    public void Instrucions()
+    public void Instructions()
     {
         FindObjectOfType<AudioManager>().Play("Button Sound");
 
